@@ -9,9 +9,9 @@
 <br>
     
   <div align="center">
-  <a href="https://github.com/lgcarlinf">
+  <a href="https://github.com/alexis12vlo">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexis12vlo&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lgcarlinf&layout=compact&langs_count=7&theme=radical" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexis12vlo&layout=compact&langs_count=7&theme=radical" />
   <br/>
     </a>
 </div>
@@ -48,7 +48,7 @@
  ## Streaks 💻
 <div align="center">
   <p align="center">My streaks</p>
-  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=lgcarlinf&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="280em" src="https://github-readme-streak-stats.herokuapp.com?user=alexis12vlo&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
  
   <br/>
  
