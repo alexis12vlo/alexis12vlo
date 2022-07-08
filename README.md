@@ -1,7 +1,7 @@
 
     
  <p align="center">
- <h1 align="center">Hi I'm Lujan Alexis<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1>
+ <h1 align="center">Hi I'm Alexis Lujan<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/> </h1>
  <h4 align="center"> 
      <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+Frontend+Web+Developer%E2%9C%A8%E2%9C%A8"></a>
 </h4>
@@ -32,13 +32,8 @@
   <img align="center" alt="React" height="50" width="50" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif">
   <img align="center" alt="Redux" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Node" height="50" width="50" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif">
-  <img align="center" alt="Express" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
-  <img align="center" alt="Sequelize" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-  <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="PostgreSql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Git" height="50" width="100" src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif">
   <img align="center" alt="Github" height="50" width="50" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif">
-  <img align="center" alt="Firebase" height="50" width="50" src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif">
     
   
 
